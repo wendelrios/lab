@@ -30,6 +30,7 @@ a{
   height: 600px;
   margin: 0px 30px;
   box-sizing: border-box;
+  flex-grow: 1;
 }
 
 .card h3,h5{
