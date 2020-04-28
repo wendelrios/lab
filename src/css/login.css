@@ -45,9 +45,10 @@ a{
   justify-content: center;
   margin: auto;
   align-items: center;
+  box-sizing: border-box;
 }
 
-input{
+.form-box input{
   width: 250px;
   outline: none;
   border: none;
