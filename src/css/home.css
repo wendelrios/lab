@@ -14,6 +14,7 @@ body,ul,li{
 }
 
 h1{
+  color: white;
   margin: 0;
   font-family: 'Lobster', cursive;
 }
@@ -39,7 +40,7 @@ h1{
 
 .header ul li{
   margin-right: 10px;
-  background-color: hotpink;
+  background-color: blueviolet;
   padding: 10px;
   display: block;
 }
@@ -72,12 +73,14 @@ h1{
 }
 
 .form h3{
+  color: white;
   text-align: center;
   padding: 20px 0px 20px 0px
 }
 
 form{
   margin: 0;
+  color: white;
 }
 
 hr{
@@ -114,14 +117,13 @@ hr{
 .form-box button{
   width: 80px;
   height: 30px;
-  background-color: black;
+  background-color: blueviolet;
   color: white;
 }
 
 .form-box button:hover{
-  background-color: white;
+  background-color: lightpink;
   transition: 0.3s;
-  color: black;
 }
 
 .form-box a{
@@ -130,7 +132,7 @@ hr{
 }
 
 .form-box a:hover{
-  color: black;
+  color: indigo;
   transition: 0.2s;
 }
 

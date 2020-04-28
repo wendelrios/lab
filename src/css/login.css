@@ -34,6 +34,7 @@ a{
 }
 
 .card h3,h5{
+  color: white;
   text-align: center;
   margin: 40px 0px 0px 0px;
 }
@@ -69,7 +70,11 @@ a{
 }
 
 .form-box button:hover{
-  opacity: 0.8;
+  background-color: lightpink;
+}
+
+.form-box a:hover{
+  color: indigo;
 }
 
 
