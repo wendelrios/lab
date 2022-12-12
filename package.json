@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/wendelrios/lab#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-promise-router": "^3.0.3",
     "pg": "^8.0.3"
   },
